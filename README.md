@@ -28,16 +28,16 @@
 - Head of development @ [Variant Group](https://variant.net/), working on [MyPersonality](https://mypersonality.net/), [Enneagramtest](https://enneagramtest.com/), [CryptomarketCap](https://cryptomarketcap.com/), [Paystubs](https://paystub.org/) and a lot more.
 - Full Stack Engineer, Web3 and AI enthusiast
 - Serial speaker at worldwide conferences and meetups
-- Mentor on engineering and leadership on [Getmetor.dev](https://getmentor.dev/)
+- Mentor on engineering and leadership on [Getmentor.dev](https://getmentor.dev/)
 - IEEE Senior Member and Raptors Fellow
-- Active community member: RND.JS ([1](https://t.me/jsweekdays),[2](https://vk.com/rndjs)) founder, [ChillHouse](https://t.me/yourchillhousehere) contibutor, ex-GDG Russia organizer
+- Active community member: RND.JS ([1](https://t.me/jsweekdays),[2](https://vk.com/rndjs)) founder, [ChillHouse](https://t.me/yourchillhousehere) contributor, ex-GDG Russia organizer
 
 ---
 
 ### 🛠️ Tech Stack
 
 - Languages: TypeScript, JavaScript, NodeJS, Go, Python; learning Rust
-- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, CGP, PostgreSQL, MongoDB, Redis, RabbitMQ
+- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, GCP, PostgreSQL, MongoDB, Redis, RabbitMQ
 - Worked with Bitcoin, Ethereum, Solana and Near blockchains
 
 ---
@@ -66,7 +66,7 @@ My favorites are:
 ### 🤓 Fun Facts
 
 - I worked on anti-bot solutions in crypto and wrote an [article](https://www.fxstreet.com/cryptocurrencies/news/are-bots-a-boon-or-a-bane-an-interview-with-jig-analytics-lead-engineer-denis-ilin-202301101226) about it
-- I'm a junior multi-instrumentalist musician. Thank's Songsterr for that
+- I'm a junior multi-instrumentalist musician. Thanks Songsterr for that
 - Traveled across 20 countries and sometimes lived there for a long time
 - Personal [fun page](https://followdarko.github.io/) inspired by Peter Levels
 
