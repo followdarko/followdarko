@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible" alt="Ansible">
   <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&" alt="Terraform">
+  <img src="https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx&" alt="Nginx">
 </p>
 
 ---
@@ -37,7 +38,7 @@
 ### 🛠️ Tech Stack
 
 - Languages: TypeScript, JavaScript, NodeJS, Go, Python; learning Rust
-- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, GCP, PostgreSQL, MongoDB, Redis, RabbitMQ
+- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, GCP, PostgreSQL, MongoDB, Redis, RabbitMQ, Nginx
 - Worked with Bitcoin, Ethereum, Solana and Near blockchains
 
 ---
