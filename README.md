@@ -19,7 +19,10 @@
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible" alt="Ansible">
   <img src="https://img.shields.io/badge/Terraform-000000?style=flat&logo=terraform&" alt="Terraform">
-  <img src="https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx&" alt="Nginx">
+  <img src="https://img.shields.io/badge/Nginx-000000?style=flat&logo=nginx" alt="Nginx">
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=claude" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-000000?style=flat&logo=googlegemini" alt="Gemini">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor" alt="Cursor">
 </p>
 
 ---
@@ -38,7 +41,7 @@
 ### 🛠️ Tech Stack
 
 - Languages: TypeScript, JavaScript, NodeJS, Go, Python; learning Rust
-- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, GCP, PostgreSQL, MongoDB, Redis, RabbitMQ, Nginx
+- Frameworks/Tools: React, SvelteKit, Playwright, Nextjs, Express, Docker, Kubernetes, Terraform, Ansible, CI/CD, AWS, GCP, PostgreSQL, MongoDB, Redis, RabbitMQ, Nginx, Claude, Gemini, Cursor
 - Worked with Bitcoin, Ethereum, Solana and Near blockchains
 
 ---
